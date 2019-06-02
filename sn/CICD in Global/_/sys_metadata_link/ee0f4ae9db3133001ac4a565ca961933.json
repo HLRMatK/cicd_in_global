@@ -1,0 +1,18 @@
+{
+  "directory": "update",
+  "documentkey": "dc3c86e5db3133001ac4a565ca96196c",
+  "payload": "<?xml version=\"1.0\" encoding=\"UTF-8\"?><record_update sys_domain=\"global\" table=\"u_new_file\">\n    <u_new_file action=\"INSERT_OR_UPDATE\">\n        <active>true</active>\n        <activity_due/>\n        <additional_assignee_list/>\n        <approval>not requested</approval>\n        <approval_history/>\n        <approval_set/>\n        <assigned_to/>\n        <assignment_group/>\n        <business_duration/>\n        <business_service/>\n        <calendar_duration/>\n        <close_notes/>\n        <closed_at/>\n        <closed_by/>\n        <cmdb_ci/>\n        <cmdb_ci_business_app/>\n        <comments/>\n        <comments_and_work_notes/>\n        <company/>\n        <contact_type/>\n        <correlation_display/>\n        <correlation_id/>\n        <delivery_plan/>\n        <delivery_task/>\n        <description>test me</description>\n        <due_date/>\n        <escalation>0</escalation>\n        <expected_start/>\n        <follow_up/>\n        <group_list/>\n        <impact>3</impact>\n        <knowledge>false</knowledge>\n        <location/>\n        <made_sla>true</made_sla>\n        <number>NF001001</number>\n        <opened_at>2019-06-02 16:40:35</opened_at>\n        <opened_by display_value=\"System Administrator\">6816f79cc0a8016401c5a33be04be441</opened_by>\n        <order/>\n        <parent/>\n        <priority>4</priority>\n        <reassignment_count>0</reassignment_count>\n        <rejection_goto/>\n        <service_offering/>\n        <short_description>test</short_description>\n        <skills/>\n        <sla_due/>\n        <state>1</state>\n        <sys_class_name>u_new_file</sys_class_name>\n        <sys_created_by>admin</sys_created_by>\n        <sys_created_on>2019-06-02 16:40:43</sys_created_on>\n        <sys_domain>global</sys_domain>\n        <sys_domain_path>/</sys_domain_path>\n        <sys_id>dc3c86e5db3133001ac4a565ca96196c</sys_id>\n        <sys_mod_count>2</sys_mod_count>\n        <sys_updated_by>admin</sys_updated_by>\n        <sys_updated_on>2019-06-02 16:44:35</sys_updated_on>\n        <time_worked/>\n        <upon_approval>proceed</upon_approval>\n        <upon_reject>cancel</upon_reject>\n        <urgency>3</urgency>\n        <user_input/>\n        <variables/>\n        <watch_list/>\n        <wf_activity/>\n        <work_end/>\n        <work_notes/>\n        <work_notes_list/>\n        <work_start/>\n    </u_new_file>\n</record_update>\n",
+  "sys_class_name": "sys_metadata_link",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-02 16:53:01",
+  "sys_id": "ee0f4ae9db3133001ac4a565ca961933",
+  "sys_mod_count": 0,
+  "sys_name": "NF001001",
+  "sys_package": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_policy": null,
+  "sys_scope": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_update_name": "sys_metadata_link_ee0f4ae9db3133001ac4a565ca961933",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-02 16:53:01",
+  "tablename": "u_new_file"
+}
