@@ -1,0 +1,18 @@
+{
+  "category": "u_new_file",
+  "maximum_digits": 6,
+  "number": 1000,
+  "prefix": "NF",
+  "sys_class_name": "sys_number",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-02 16:40:25",
+  "sys_id": "c91cc2e5db3133001ac4a565ca96198d",
+  "sys_mod_count": 0,
+  "sys_name": "NF",
+  "sys_package": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_policy": null,
+  "sys_scope": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_update_name": "sys_number_c91cc2e5db3133001ac4a565ca96198d",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-02 16:40:25"
+}

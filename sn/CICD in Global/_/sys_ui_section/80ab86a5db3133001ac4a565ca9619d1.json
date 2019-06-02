@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "u_new_file",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-06-02 16:38:07",
+  "sys_id": "80ab86a5db3133001ac4a565ca9619d1",
+  "sys_mod_count": 0,
+  "sys_name": "u_new_file",
+  "sys_package": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_policy": null,
+  "sys_scope": "42a1ac05dbf133001ac4a565ca961921",
+  "sys_update_name": "sys_ui_section_80ab86a5db3133001ac4a565ca9619d1",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-06-02 16:38:07",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}
